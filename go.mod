@@ -1,4 +1,4 @@
-module awesomeProject1
+module github.com/AntonKhPI2/task-api
 
 go 1.24
 
