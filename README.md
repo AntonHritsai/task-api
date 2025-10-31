@@ -59,7 +59,7 @@ This project follows a classic 3-tier (or layered) architecture to ensure separa
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/AntonKhPI2/task-api.git
+    git clone https://github.com/AntonHritsai/task-api.git
     cd task-api
     ```
 
